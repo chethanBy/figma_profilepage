@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .font-custom {
+    font-family: "Crimson Pro";
+  }
+}
+
+* {
+  box-sizing: content-box;
+}

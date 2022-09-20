@@ -1,0 +1,10 @@
+Figma 
+Padding measurement
+1) Measure distances
+Measure distances between objects, even if they are nested within Frames, groups, or Components.
+
+Select the first object in the canvas.
+Hold down the modifier key:
+Windows: Alt
+Hover over the second object.
+Figma will display a red line between the two objects, as well as a measurement in pts (points).

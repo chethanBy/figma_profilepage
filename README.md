@@ -14,4 +14,4 @@ Design in Figma.
 
 Browser UI from ReactJS and TailwindCSS.
 
-![App Screenshot](./browserUI.png)
+![App Screenshot](./browserUI.jpg)
